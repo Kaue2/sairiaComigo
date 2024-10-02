@@ -1,8 +1,13 @@
+*{
+    font-family: "Afacad Flux", sans-serif;
+}
+
 body, html {
     height: 100%;
     width: 100%;
     margin: 0;
     display: flex;
+    
 }
 
 .container {
@@ -27,6 +32,8 @@ body, html {
     border-radius: 5px;
     cursor: pointer;
     transition: all 0.3s ease;
+    font-size: 18px;
+    text-decoration: none;
 }
 
 
